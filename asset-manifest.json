@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactfacebookpage/static/css/main.80224c3d.chunk.css",
+    "main.js": "/reactfacebookpage/static/js/main.ed5036da.chunk.js",
+    "main.js.map": "/reactfacebookpage/static/js/main.ed5036da.chunk.js.map",
+    "runtime-main.js": "/reactfacebookpage/static/js/runtime-main.7ecf502b.js",
+    "runtime-main.js.map": "/reactfacebookpage/static/js/runtime-main.7ecf502b.js.map",
+    "static/css/2.4be38407.chunk.css": "/reactfacebookpage/static/css/2.4be38407.chunk.css",
+    "static/js/2.eccec2a2.chunk.js": "/reactfacebookpage/static/js/2.eccec2a2.chunk.js",
+    "static/js/2.eccec2a2.chunk.js.map": "/reactfacebookpage/static/js/2.eccec2a2.chunk.js.map",
+    "index.html": "/reactfacebookpage/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reactfacebookpage/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.80224c3d.chunk.css.map": "/reactfacebookpage/static/css/main.80224c3d.chunk.css.map",
+    "static/js/2.eccec2a2.chunk.js.LICENSE.txt": "/reactfacebookpage/static/js/2.eccec2a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ecf502b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.eccec2a2.chunk.js",
+    "static/css/main.80224c3d.chunk.css",
+    "static/js/main.ed5036da.chunk.js"
+  ]
+}
